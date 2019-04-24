@@ -1,3 +1,5 @@
 #!/bin/bash
 yum install -y httpd
+yum install -y jenkins 2.164.2
+
 
